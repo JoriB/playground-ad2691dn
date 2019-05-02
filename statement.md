@@ -6,6 +6,13 @@ This C# template lets you get started quickly with a simple one-page playground.
 // { autofold
 using System;
 
+class Customer{
+    
+    int cust_num;
+    String cust_name;
+    
+    }
+
 class Hello 
 {
     static void Main() 
